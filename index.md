@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Support Webpage for Unachiver
 
-You can use the [editor on GitHub](https://github.com/HuameiTomy/UnArchvierSupport/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Unarchiver, Open almost any archive
+Unarchive is more powerful than most of the decompressed software，it almost supports all archive formats.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# you can extract files from the following archive formats:
+Zip, Zipx, RAR, 7z, Tar, Gzip, Bzip2, CBZ, CBR, LZMA, XZ, CAB, MSI, NSIS, ISO, BIN, MDF, NRG, CDI, Jar ….
 
-### Markdown
+# Reads foreign characters
+Detect file name encode automatically, String garbled will no longer exist.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Support encrypted compression and decompression of encrypted files
 
-```markdown
-Syntax highlighted code block
+# Support extracting files from multi-volume archive files
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Contatct us: xihuamei_contact@163.com
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HuameiTomy/UnArchvierSupport/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
